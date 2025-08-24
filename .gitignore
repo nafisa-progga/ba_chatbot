@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# IDE and editor files
+.idea/
+.vscode/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Any other files you want to ignore
+# Add more as needed based on your project's specific needs
+# For example, if you use a database file like sqlite:
+# *.db
+# *.sqlite3

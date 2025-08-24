@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-dotenv
+langchain
+langchain-community
+oracledb
+langchain-google-genai
+faiss-cpu
+google-generativeai
